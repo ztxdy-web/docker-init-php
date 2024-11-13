@@ -1,0 +1,1560 @@
+# Translation of Themes - Twenty Twenty-Five in Indonesian
+# This file is distributed under the same license as the Themes - Twenty Twenty-Five package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-11-12 11:07:31+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: id\n"
+"Project-Id-Version: Themes - Twenty Twenty-Five\n"
+
+#. Author of the theme
+msgid "the WordPress team"
+msgstr "Tim WordPress"
+
+#. Author URI of the theme
+#: patterns/footer-centered.php:34 patterns/footer-columns.php:74
+#: patterns/footer-newsletter.php:50 patterns/footer-social.php:36
+#: patterns/footer.php:83
+msgid "https://wordpress.org"
+msgstr "https://id.wordpress.org"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Header"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Footer"
+
+#: functions.php:106
+msgid "A collection of full page layouts."
+msgstr "Koleksi tata letak halaman penuh."
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page No Title"
+msgstr "Halaman Tanpa Judul"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: styles/02-noon.json styles/04-afternoon.json styles/05-twilight.json
+#: styles/06-morning.json styles/08-midnight.json
+#: styles/typography/typography-preset-1.json
+#: styles/typography/typography-preset-3.json
+#: styles/typography/typography-preset-4.json
+#: styles/typography/typography-preset-5.json
+#: styles/typography/typography-preset-7.json theme.json
+msgctxt "Font size name"
+msgid "Extra Extra Large"
+msgstr "Ekstra Ekstra Besar"
+
+#: styles/02-noon.json styles/04-afternoon.json styles/05-twilight.json
+#: styles/06-morning.json styles/08-midnight.json
+#: styles/typography/typography-preset-1.json
+#: styles/typography/typography-preset-3.json
+#: styles/typography/typography-preset-4.json
+#: styles/typography/typography-preset-5.json
+#: styles/typography/typography-preset-7.json theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Ekstra Besar"
+
+#: styles/02-noon.json styles/04-afternoon.json styles/05-twilight.json
+#: styles/06-morning.json styles/08-midnight.json
+#: styles/typography/typography-preset-1.json
+#: styles/typography/typography-preset-3.json
+#: styles/typography/typography-preset-4.json
+#: styles/typography/typography-preset-5.json
+#: styles/typography/typography-preset-7.json theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Besar"
+
+#: styles/02-noon.json styles/04-afternoon.json styles/05-twilight.json
+#: styles/06-morning.json styles/08-midnight.json
+#: styles/typography/typography-preset-1.json
+#: styles/typography/typography-preset-3.json
+#: styles/typography/typography-preset-4.json
+#: styles/typography/typography-preset-5.json
+#: styles/typography/typography-preset-7.json theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Medium"
+
+#: styles/02-noon.json styles/04-afternoon.json styles/05-twilight.json
+#: styles/06-morning.json styles/08-midnight.json
+#: styles/typography/typography-preset-1.json
+#: styles/typography/typography-preset-3.json
+#: styles/typography/typography-preset-4.json
+#: styles/typography/typography-preset-5.json
+#: styles/typography/typography-preset-7.json theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Kecil"
+
+#: styles/01-evening.json styles/02-noon.json styles/03-dusk.json
+#: styles/04-afternoon.json styles/05-twilight.json styles/06-morning.json
+#: styles/07-sunrise.json styles/08-midnight.json styles/colors/01-evening.json
+#: styles/colors/02-noon.json styles/colors/03-dusk.json
+#: styles/colors/04-afternoon.json styles/colors/05-twilight.json
+#: styles/colors/06-morning.json styles/colors/07-sunrise.json
+#: styles/colors/08-midnight.json theme.json
+msgctxt "Color name"
+msgid "Contrast"
+msgstr "Kontras"
+
+#: styles/01-evening.json styles/02-noon.json styles/03-dusk.json
+#: styles/04-afternoon.json styles/05-twilight.json styles/06-morning.json
+#: styles/07-sunrise.json styles/08-midnight.json styles/colors/01-evening.json
+#: styles/colors/02-noon.json styles/colors/03-dusk.json
+#: styles/colors/04-afternoon.json styles/colors/05-twilight.json
+#: styles/colors/06-morning.json styles/colors/07-sunrise.json
+#: styles/colors/08-midnight.json theme.json
+msgctxt "Color name"
+msgid "Base"
+msgstr "Dasar"
+
+#: functions.php:76
+msgid "Checkmark"
+msgstr "Tanda Centang"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer Columns"
+msgstr "Kolom Footer"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header with large title"
+msgstr "Header dengan judul besar"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Vertical Header"
+msgstr "Header Vertikal"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Beiruti"
+msgstr "Beiruti"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Roboto Slab"
+msgstr "Roboto Slab"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Platypi"
+msgstr "Platypi"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Ysabeau Office"
+msgstr "Ysabeau Office"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Fira Sans"
+msgstr "Fira Sans"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Fira Code"
+msgstr "Fira Code"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Vollkorn"
+msgstr "Vollkorn"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Literata"
+msgstr "Literata"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Manrope"
+msgstr "Manrope"
+
+#: styles/sections/section-5.json
+msgctxt "Style variation name"
+msgid "Style 5"
+msgstr "Gaya 5"
+
+#: styles/sections/section-4.json
+msgctxt "Style variation name"
+msgid "Style 4"
+msgstr "Gaya 4"
+
+#: styles/sections/section-3.json
+msgctxt "Style variation name"
+msgid "Style 3"
+msgstr "Gaya 3"
+
+#: styles/sections/section-2.json
+msgctxt "Style variation name"
+msgid "Style 2"
+msgstr "Gaya 2"
+
+#: styles/sections/section-1.json
+msgctxt "Style variation name"
+msgid "Style 1"
+msgstr "Gaya 1"
+
+#: styles/blocks/post-terms-1.json
+msgctxt "Style variation name"
+msgid "Pill shaped"
+msgstr "Bentuk Pil"
+
+#: styles/blocks/03-annotation.json
+msgctxt "Style variation name"
+msgid "Annotation"
+msgstr "Anotasi"
+
+#: styles/blocks/02-subtitle.json
+msgctxt "Style variation name"
+msgid "Subtitle"
+msgstr "Subjudul"
+
+#: styles/blocks/01-display.json
+msgctxt "Style variation name"
+msgid "Display"
+msgstr "Tampilan"
+
+#: patterns/vertical-header.php
+msgctxt "Pattern description"
+msgid "Vertical Header with site title and navigation"
+msgstr "Header Vertikal dengan judul situs dan navigasi"
+
+#: patterns/vertical-header.php
+msgctxt "Pattern title"
+msgid "Vertical header"
+msgstr "Header vertikal"
+
+#: patterns/text-faqs.php
+msgctxt "Pattern title"
+msgid "FAQs"
+msgstr "Pertanyaan yang Sering Diajukan"
+
+#: patterns/template-single-photo-blog.php:79
+msgid "Next Photo"
+msgstr "Foto Selanjutnya"
+
+#: patterns/template-single-photo-blog.php:78
+msgid "Previous Photo"
+msgstr "Foto Sebelumnya"
+
+#: patterns/template-single-photo-blog.php:61
+msgctxt "Prefix before one or more tags. The tags are displayed in a separate block on the next line."
+msgid "Tagged:"
+msgstr "Ditandai:"
+
+#: patterns/template-single-offset.php:40
+#: patterns/template-single-photo-blog.php:36
+msgctxt "Prefix before the post date block."
+msgid "Published on"
+msgstr "Dipublikasikan pada"
+
+#: patterns/template-single-offset.php
+msgctxt "Pattern title"
+msgid "Offset post without featured image"
+msgstr "Pos offset tanpa gambar andalan"
+
+#: patterns/template-single-left-aligned-content.php
+msgctxt "Pattern title"
+msgid "Post with left-aligned content"
+msgstr "Pos dengan konten rata kiri"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer Newsletter"
+msgstr "Footer Newsletter"
+
+#: styles/typography/typography-preset-7.json
+msgctxt "Style variation name"
+msgid "Literata & Fira Sans"
+msgstr "Literata & Fira Sans"
+
+#: styles/typography/typography-preset-6.json
+msgctxt "Style variation name"
+msgid "Platypi & Literata"
+msgstr "Platypi & Literata"
+
+#: styles/typography/typography-preset-5.json
+msgctxt "Style variation name"
+msgid "Literata & Ysabeau Office"
+msgstr "Literata & Ysabeau Office"
+
+#: styles/typography/typography-preset-4.json
+msgctxt "Style variation name"
+msgid "Roboto Slab & Manrope"
+msgstr "Roboto Slab & Manrope"
+
+#: styles/typography/typography-preset-3.json
+msgctxt "Style variation name"
+msgid "Platypi & Ysabeau Office"
+msgstr "Platypi & Ysabeau Office"
+
+#: styles/typography/typography-preset-2.json
+msgctxt "Style variation name"
+msgid "Vollkorn & Fira Code"
+msgstr "Vollkorn & Fira Code"
+
+#: styles/typography/typography-preset-1.json
+msgctxt "Style variation name"
+msgid "Beiruti & Literata"
+msgstr "Beiruti & Literata"
+
+#: styles/01-evening.json styles/02-noon.json styles/03-dusk.json
+#: styles/04-afternoon.json styles/05-twilight.json styles/06-morning.json
+#: styles/07-sunrise.json styles/08-midnight.json styles/colors/01-evening.json
+#: styles/colors/02-noon.json styles/colors/03-dusk.json
+#: styles/colors/04-afternoon.json styles/colors/05-twilight.json
+#: styles/colors/06-morning.json styles/colors/07-sunrise.json
+#: styles/colors/08-midnight.json theme.json
+msgctxt "Color name"
+msgid "Accent 6"
+msgstr "Aksen 6"
+
+#: styles/01-evening.json styles/02-noon.json styles/03-dusk.json
+#: styles/04-afternoon.json styles/05-twilight.json styles/06-morning.json
+#: styles/07-sunrise.json styles/08-midnight.json styles/colors/01-evening.json
+#: styles/colors/02-noon.json styles/colors/03-dusk.json
+#: styles/colors/04-afternoon.json styles/colors/05-twilight.json
+#: styles/colors/06-morning.json styles/colors/07-sunrise.json
+#: styles/colors/08-midnight.json theme.json
+msgctxt "Color name"
+msgid "Accent 5"
+msgstr "Aksen 5"
+
+#: styles/01-evening.json styles/02-noon.json styles/03-dusk.json
+#: styles/04-afternoon.json styles/05-twilight.json styles/06-morning.json
+#: styles/07-sunrise.json styles/08-midnight.json styles/colors/01-evening.json
+#: styles/colors/02-noon.json styles/colors/03-dusk.json
+#: styles/colors/04-afternoon.json styles/colors/05-twilight.json
+#: styles/colors/06-morning.json styles/colors/07-sunrise.json
+#: styles/colors/08-midnight.json theme.json
+msgctxt "Color name"
+msgid "Accent 4"
+msgstr "Aksen 4"
+
+#: styles/01-evening.json styles/02-noon.json styles/03-dusk.json
+#: styles/04-afternoon.json styles/05-twilight.json styles/06-morning.json
+#: styles/07-sunrise.json styles/08-midnight.json styles/colors/01-evening.json
+#: styles/colors/02-noon.json styles/colors/03-dusk.json
+#: styles/colors/04-afternoon.json styles/colors/05-twilight.json
+#: styles/colors/06-morning.json styles/colors/07-sunrise.json
+#: styles/colors/08-midnight.json theme.json
+msgctxt "Color name"
+msgid "Accent 3"
+msgstr "Aksen 3"
+
+#: styles/01-evening.json styles/02-noon.json styles/03-dusk.json
+#: styles/04-afternoon.json styles/05-twilight.json styles/06-morning.json
+#: styles/07-sunrise.json styles/08-midnight.json styles/colors/01-evening.json
+#: styles/colors/02-noon.json styles/colors/03-dusk.json
+#: styles/colors/04-afternoon.json styles/colors/05-twilight.json
+#: styles/colors/06-morning.json styles/colors/07-sunrise.json
+#: styles/colors/08-midnight.json theme.json
+msgctxt "Color name"
+msgid "Accent 2"
+msgstr "Aksen 2"
+
+#: styles/01-evening.json styles/02-noon.json styles/03-dusk.json
+#: styles/04-afternoon.json styles/05-twilight.json styles/06-morning.json
+#: styles/07-sunrise.json styles/08-midnight.json styles/colors/01-evening.json
+#: styles/colors/02-noon.json styles/colors/03-dusk.json
+#: styles/colors/04-afternoon.json styles/colors/05-twilight.json
+#: styles/colors/06-morning.json styles/colors/07-sunrise.json
+#: styles/colors/08-midnight.json theme.json
+msgctxt "Color name"
+msgid "Accent 1"
+msgstr "Aksen 1"
+
+#: styles/01-evening.json styles/colors/01-evening.json
+msgctxt "Style variation name"
+msgid "Evening"
+msgstr "Malam"
+
+#: patterns/page-coming-soon.php
+msgctxt "Pattern title"
+msgid "Coming soon"
+msgstr "Segera hadir"
+
+#: patterns/text-faqs.php:21
+msgctxt "Heading of the FAQs pattern."
+msgid "Frequently Asked Questions"
+msgstr "Pertanyaan yang Sering Diajukan"
+
+#: patterns/testimonials-2-col.php:26 patterns/testimonials-2-col.php:55
+msgctxt "Alt text for testimonial image."
+msgid "Picture of a person"
+msgstr "Gambar orang"
+
+#: patterns/testimonials-2-col.php
+msgctxt "Pattern description"
+msgid "Two columns with testimonials and avatars."
+msgstr "Dua kolom dengan testimoni dan avatar."
+
+#: patterns/testimonials-2-col.php
+msgctxt "Pattern title"
+msgid "2 columns with avatar"
+msgstr "2 kolom dengan avatar"
+
+#: patterns/template-single-photo-blog.php:53
+msgctxt "Prefix before one or more categories. The categories are displayed in a separate block on the next line."
+msgid "Categories:"
+msgstr "Kategori:"
+
+#: patterns/page-coming-soon.php:33
+msgid "Subscribe to get notified when our website is ready."
+msgstr "Berlangganan untuk mendapatkan pemberitahuan saat situs web kami siap."
+
+#: patterns/template-single-photo-blog.php:42
+msgctxt "Prefix before the author name. The post author name is displayed in a separate block on the next line."
+msgid "Posted by"
+msgstr "Ditulis oleh"
+
+#: patterns/banner-intro-image.php:31
+msgctxt "Heading for banner pattern."
+msgid "New arrivals"
+msgstr "Koleksi baru"
+
+#: patterns/page-cv-bio.php:28
+msgctxt "Example heading in pattern."
+msgid "Hey,"
+msgstr "Hai,"
+
+#: patterns/template-single-left-aligned-content.php:56
+#: patterns/template-single-news-blog.php:39
+msgctxt "Separator between date and categories."
+msgid "·"
+msgstr "·"
+
+#: patterns/template-single-left-aligned-content.php:31
+msgctxt "Prefix before the author name. The post author name is displayed in a separate block."
+msgid "by"
+msgstr "oleh"
+
+#: patterns/banner-intro-image.php:42
+msgctxt "Button text of intro section."
+msgid "Learn More"
+msgstr "Pelajari Lebih Lanjut"
+
+#: patterns/page-cv-bio.php:47
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: patterns/template-search-photo-blog.php
+msgctxt "Pattern title"
+msgid "Photo blog search results"
+msgstr "Hasil pencarian blog foto"
+
+#: patterns/template-search-news-blog.php
+msgctxt "Pattern title"
+msgid "News blog search results"
+msgstr "Hasil pencarian blog berita"
+
+#: patterns/template-query-loop.php
+msgctxt "Pattern description"
+msgid "A list of posts, 1 column, with featured image and post date."
+msgstr "Daftar pos, 1 kolom, dengan gambar andalan dan tanggal pos."
+
+#: patterns/page-link-in-bio-heading-paragraph-links-image.php:26
+msgid "Lewis Hine"
+msgstr "Lewis Hine"
+
+#: patterns/template-query-loop.php
+msgctxt "Pattern title"
+msgid "List of posts, 1 column"
+msgstr "Daftar pos, 1 kolom"
+
+#: patterns/banner-with-description-and-images-grid.php:23
+#: patterns/overlapped-images.php:37
+msgid "About Us"
+msgstr "Tentang Kami"
+
+#: patterns/comments.php
+msgctxt "Pattern title"
+msgid "Comments"
+msgstr "Komentar"
+
+#: patterns/page-portfolio-home.php:229
+msgid "email@example.com"
+msgstr "email@contoh.com"
+
+#: patterns/page-portfolio-home.php:229
+msgctxt "Phone number."
+msgid "+1 555 349 1806"
+msgstr "+1 555 349 1806"
+
+#: patterns/template-query-loop-vertical-header-blog.php:47
+#: patterns/template-query-loop.php:31
+msgctxt "Message explaining that there are no results returned from a search"
+msgid "Sorry, but nothing was found. Please try a search with different keywords."
+msgstr "Maaf, tidak ada yang ditemukan. Silakan coba pencarian dengan kata kunci yang berbeda."
+
+#: patterns/contact-info-locations.php:29
+#: patterns/contact-info-locations.php:31 patterns/footer-social.php:20
+msgid "Social media"
+msgstr "Media sosial"
+
+#: patterns/contact-info-locations.php:34 patterns/footer-social.php:21
+msgid "Facebook"
+msgstr "Facebook"
+
+#: patterns/contact-info-locations.php:35
+#: patterns/page-link-in-bio-heading-paragraph-links-image.php:44
+#: patterns/page-link-in-bio-with-tight-margins.php:56
+msgid "TikTok"
+msgstr "TikTok"
+
+#: patterns/template-query-loop-vertical-header-blog.php
+msgctxt "Pattern title"
+msgid "Right-aligned posts"
+msgstr "Pos rata kanan"
+
+#: patterns/pricing-2-col.php:18 patterns/pricing-3-col.php:23
+msgid "Pricing"
+msgstr "Harga"
+
+#: patterns/contact-info-locations.php:38
+msgid "Email"
+msgstr "Email"
+
+#: patterns/pricing-2-col.php:22
+#: patterns/services-subscriber-only-section.php:61
+msgid "Cancel or pause anytime."
+msgstr "Batalkan atau jeda kapan saja."
+
+#: patterns/contact-info-locations.php:41
+msgid "example@example.com"
+msgstr "contoh@contoh.com"
+
+#: patterns/pricing-2-col.php:34 patterns/pricing-3-col.php:37
+msgid "Free"
+msgstr "Gratis"
+
+#: patterns/contact-info-locations.php:51
+msgid "New York"
+msgstr "New York"
+
+#: patterns/contact-info-locations.php:62
+msgid "San Diego"
+msgstr "San Diego"
+
+#: patterns/template-query-loop-news-blog.php:49
+msgid "Older Posts"
+msgstr "Pos Terdahulu"
+
+#: patterns/contact-location-and-link.php:26
+msgid "Get directions"
+msgstr "Dapatkan petunjuk arah"
+
+#: patterns/pricing-3-col.php:89 patterns/pricing-3-col.php:129
+msgid "Month"
+msgstr "Bulan"
+
+#: patterns/template-query-loop-news-blog.php:45
+msgid "Newer Posts"
+msgstr "Pos Lebih Baru"
+
+#: patterns/template-query-loop-news-blog.php:30
+msgctxt "Prefix before the author name. The post author name is displayed in a separate block."
+msgid "Written by"
+msgstr "Ditulis oleh"
+
+#: patterns/cta-book-links.php:43
+msgctxt "Example brand name."
+msgid "Spotify"
+msgstr "Spotify"
+
+#: patterns/cta-book-links.php:39
+msgctxt "Example brand name."
+msgid "Bookshop.org"
+msgstr "Bookshop.org"
+
+#: patterns/cta-book-links.php:47
+msgctxt "Example brand name."
+msgid "BAM!"
+msgstr "BAM!"
+
+#: patterns/services-3-col.php:17
+msgid "Our services"
+msgstr "Layanan kami"
+
+#: patterns/cta-book-locations.php:43
+msgid "Australia"
+msgstr "Australia"
+
+#: patterns/template-home-with-sidebar-news-blog.php:88
+msgctxt "Separator between date and categories"
+msgid "·"
+msgstr "·"
+
+#: patterns/cta-book-locations.php:55
+msgid "Brazil"
+msgstr "Brasil"
+
+#: patterns/cta-book-locations.php:79
+msgid "Japan"
+msgstr "Jepang"
+
+#: patterns/template-home-with-sidebar-news-blog.php:42
+msgid "The Latest"
+msgstr "Yang Terbaru"
+
+#: patterns/cta-book-locations.php:95
+msgid "New Zealand"
+msgstr "Selandia Baru"
+
+#: patterns/cta-book-locations.php:67
+msgid "Canada"
+msgstr "Kanada"
+
+#: patterns/template-home-with-sidebar-news-blog.php
+msgctxt "Pattern title"
+msgid "News blog with sidebar"
+msgstr "Blog berita dengan sidebar"
+
+#: patterns/cta-book-locations.php:107
+msgid "Switzerland"
+msgstr "Swiss"
+
+#: patterns/template-home-vertical-header-blog.php
+msgctxt "Pattern title"
+msgid "Homepage for right-aligned blog"
+msgstr "Beranda untuk blog rata kanan"
+
+#: patterns/template-home-posts-grid-news-blog.php:114
+msgid "Architecture"
+msgstr "Arsitektur"
+
+#: patterns/cta-events-list.php:19
+msgid "Upcoming events"
+msgstr "Acara mendatang"
+
+#: patterns/cta-events-list.php:51 patterns/cta-events-list.php:89
+#: patterns/cta-events-list.php:120 patterns/cta-events-list.php:158
+msgid "Buy Tickets"
+msgstr "Beli Tiket"
+
+#: patterns/cta-grid-products-link.php:100
+msgid "Cancel anytime"
+msgstr "Batalkan kapan saja"
+
+#: patterns/cta-grid-products-link.php:134
+msgid "Shop now"
+msgstr "Belanja sekarang"
+
+#: patterns/cta-heading-search.php:21
+msgctxt "Search input field placeholder text."
+msgid "Type here..."
+msgstr "Ketik di sini..."
+
+#: patterns/cta-heading-search.php:21
+msgctxt "Button text. Verb"
+msgid "Search"
+msgstr "Cari"
+
+#: patterns/services-subscriber-only-section.php:55
+msgid "View plans"
+msgstr "Lihat paket"
+
+#: patterns/pricing-3-col.php:85
+msgid "20€"
+msgstr "€20"
+
+#: patterns/pricing-2-col.php:82
+msgid "20€/month"
+msgstr "€20/bulan"
+
+#: patterns/pricing-2-col.php:78 patterns/pricing-3-col.php:73
+msgctxt "Name of membership package."
+msgid "Single"
+msgstr "Tunggal"
+
+#: patterns/pricing-2-col.php:68 patterns/pricing-2-col.php:112
+#: patterns/pricing-3-col.php:59 patterns/pricing-3-col.php:99
+#: patterns/pricing-3-col.php:139
+msgctxt "Button text, refers to joining a community. Verb."
+msgid "Join"
+msgstr "Gabung"
+
+#: patterns/pricing-2-col.php:60 patterns/pricing-2-col.php:104
+#: patterns/services-subscriber-only-section.php:43
+msgid "Join our forums."
+msgstr "Bergabung dengan forum kami."
+
+#: patterns/page-coming-soon.php:24
+msgid "Event"
+msgstr "Kegiatan"
+
+#: patterns/pricing-2-col.php:52 patterns/pricing-2-col.php:96
+#: patterns/services-subscriber-only-section.php:35
+msgid "Get a free tote bag."
+msgstr "Dapatkan tote bag gratis."
+
+#: patterns/hidden-written-by.php
+msgctxt "Pattern title"
+msgid "Written by"
+msgstr "Ditulis oleh"
+
+#: patterns/page-link-in-bio-wide-margins.php:34
+msgid "Nora Winslow Keene"
+msgstr "Nora Winslow Keene"
+
+#: patterns/hidden-sidebar.php:38 patterns/page-portfolio-home.php:65
+#: patterns/page-portfolio-home.php:87 patterns/page-portfolio-home.php:121
+#: patterns/page-portfolio-home.php:154 patterns/page-portfolio-home.php:176
+#: patterns/page-portfolio-home.php:203 patterns/template-home-news-blog.php:40
+#: patterns/template-home-posts-grid-news-blog.php:35
+#: patterns/template-home-posts-grid-news-blog.php:60
+#: patterns/template-home-posts-grid-news-blog.php:78
+#: patterns/template-home-posts-grid-news-blog.php:103
+#: patterns/template-home-with-sidebar-news-blog.php:62
+#: patterns/template-home-with-sidebar-news-blog.php:119
+#: patterns/template-query-loop-news-blog.php:55
+#: patterns/template-query-loop-photo-blog.php:22
+#: patterns/template-query-loop-text-blog.php:19
+msgctxt "Message explaining that there are no results returned from a search."
+msgid "Sorry, but nothing was found. Please try a search with different keywords."
+msgstr "Maaf, tidak ada yang ditemukan. Silakan coba pencarian dengan kata kunci yang berbeda."
+
+#: patterns/logos.php
+msgctxt "Pattern title"
+msgid "Logos"
+msgstr "Logo"
+
+#: patterns/hidden-sidebar.php
+msgctxt "Pattern title"
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: patterns/hidden-search.php:14
+msgctxt "Button text. Verb."
+msgid "Search"
+msgstr "Cari"
+
+#: patterns/hidden-sidebar.php:37
+#: patterns/template-home-posts-grid-news-blog.php:34
+#: patterns/template-home-with-sidebar-news-blog.php:61
+msgid "Add text or blocks that will display when a query returns no results."
+msgstr "Tambahkan teks atau blok yang akan ditampilkan jika tidak ada hasil dari query."
+
+#: patterns/hidden-search.php:14
+msgctxt "Search input field placeholder text"
+msgid "Type here..."
+msgstr "Ketik di sini..."
+
+#: patterns/hidden-search.php
+msgctxt "Pattern title"
+msgid "Search"
+msgstr "Pencarian"
+
+#: patterns/hidden-404.php
+msgctxt "Pattern title"
+msgid "404"
+msgstr "404"
+
+#: patterns/hero-podcast.php:65
+msgctxt "Button text"
+msgid "RSS"
+msgstr "RSS"
+
+#: patterns/hero-podcast.php:57
+msgctxt "Button text"
+msgid "Spotify"
+msgstr "Spotify"
+
+#: patterns/hero-podcast.php:61
+msgctxt "Button text"
+msgid "Pocket Casts"
+msgstr "Pocket Casts"
+
+#: patterns/hero-podcast.php:49
+msgctxt "Button text"
+msgid "Youtube"
+msgstr "YouTube"
+
+#: patterns/grid-with-categories.php:29 patterns/grid-with-categories.php:40
+#: patterns/grid-with-categories.php:52
+msgid "Write title…"
+msgstr "Tulis judul…"
+
+#: patterns/hero-book.php:24
+msgid "Image of the book"
+msgstr "Gambar buku"
+
+#: patterns/heading-and-paragraph-with-image.php:36
+msgctxt "Alt text for Overview picture."
+msgid "Cliff Palace, Colorado"
+msgstr "Cliff Palace, Colorado"
+
+#: patterns/grid-videos.php:23
+msgid "Podcast"
+msgstr "Podcast"
+
+#: patterns/grid-videos.php:19
+msgid "Explore the episodes"
+msgstr "Jelajahi episode"
+
+#: patterns/format-link.php:23
+msgid "https://example.com"
+msgstr "https://example.com"
+
+#: patterns/footer-columns.php:52 patterns/footer.php:61
+msgid "Themes"
+msgstr "Tema"
+
+#: patterns/footer-columns.php:51 patterns/footer.php:59
+msgid "Patterns"
+msgstr "Pattern"
+
+#: patterns/footer-columns.php:48
+msgid "Featured"
+msgstr "Unggulan"
+
+#: patterns/footer-columns.php:38 patterns/footer.php:49
+msgid "FAQs"
+msgstr "FAQ"
+
+#: patterns/footer-columns.php:37 patterns/footer.php:47
+msgid "About"
+msgstr "Tentang"
+
+#: patterns/footer-columns.php:36 patterns/footer.php:45
+#: patterns/hidden-blog-heading.php:15 patterns/template-home-text-blog.php:20
+msgid "Blog"
+msgstr "Blog"
+
+#: patterns/header.php
+msgctxt "Pattern title"
+msgid "Header"
+msgstr "Header"
+
+#: patterns/cta-newsletter.php:32 patterns/footer-newsletter.php:30
+#: patterns/page-coming-soon.php:39
+#: patterns/services-subscriber-only-section.php:51
+msgid "Subscribe"
+msgstr "Berlangganan"
+
+#: patterns/cta-grid-products-link.php:84
+msgid "Free shipping"
+msgstr "Pengiriman gratis"
+
+#: patterns/header-large-title.php
+msgctxt "Pattern description"
+msgid "Header with large site title and right-aligned navigation."
+msgstr "Header dengan judul situs besar dan navigasi rata kanan."
+
+#: patterns/header-large-title.php
+msgctxt "Pattern title"
+msgid "Header with large title"
+msgstr "Header dengan judul besar"
+
+#: patterns/cta-heading-search.php:21 patterns/hidden-search.php:14
+msgctxt "Search form label."
+msgid "Search"
+msgstr "Pencarian"
+
+#: patterns/cta-grid-products-link.php:20
+msgid "Our online store."
+msgstr "Toko online kami."
+
+#: patterns/cta-book-locations.php:119
+msgid "United States"
+msgstr "Amerika Serikat"
+
+#: patterns/cta-book-locations.php:47 patterns/cta-book-locations.php:59
+#: patterns/cta-book-locations.php:71 patterns/cta-book-locations.php:83
+#: patterns/cta-book-locations.php:99 patterns/cta-book-locations.php:111
+#: patterns/cta-book-locations.php:123 patterns/cta-book-locations.php:135
+msgid "Book Store"
+msgstr "Toko Buku"
+
+#: patterns/cta-book-links.php:27
+#: patterns/hero-overlapped-book-cover-with-links.php:77
+msgctxt "Example brand name."
+msgid "Audible"
+msgstr "Audible"
+
+#: patterns/cta-book-links.php:31
+#: patterns/hero-overlapped-book-cover-with-links.php:84
+msgctxt "Example brand name."
+msgid "Barnes &amp; Noble"
+msgstr "Barnes &amp; Noble"
+
+#: patterns/cta-book-links.php:23
+#: patterns/hero-overlapped-book-cover-with-links.php:55
+msgctxt "Example brand name."
+msgid "Amazon"
+msgstr "Amazon"
+
+#: patterns/header-columns.php
+msgctxt "Pattern description"
+msgid "Header with site title and navigation in columns."
+msgstr "Header dengan judul situs dan navigasi di kolom."
+
+#: patterns/cta-book-links.php:35
+#: patterns/hero-overlapped-book-cover-with-links.php:62
+msgctxt "Example brand name."
+msgid "Apple Books"
+msgstr "Apple Books"
+
+#: patterns/header-columns.php
+msgctxt "Pattern title"
+msgid "Header with columns"
+msgstr "Header dengan kolom"
+
+#: patterns/cta-book-links.php:51
+msgctxt "Example brand name."
+msgid "Simon &amp; Schuster"
+msgstr "Simon &amp; Schuster"
+
+#: patterns/contact-info-locations.php:32 patterns/footer-social.php:23
+#: patterns/page-link-in-bio-heading-paragraph-links-image.php:40
+#: patterns/page-link-in-bio-with-tight-margins.php:52
+msgctxt "Refers to the social media platform formerly known as Twitter."
+msgid "X"
+msgstr "X"
+
+#: patterns/header-centered.php
+msgctxt "Pattern description"
+msgid "Header with centered site title and navigation."
+msgstr "Header dengan judul situs di tengah dan navigasi."
+
+#: patterns/grid-with-categories.php:57
+msgid "Sunflowers"
+msgstr "Bunga Matahari"
+
+#: functions.php:105
+msgid "Pages"
+msgstr "Halaman"
+
+#: patterns/grid-with-categories.php:45
+msgid "Cactus"
+msgstr "Kaktus"
+
+#. Theme URI of the theme
+msgid "https://wordpress.org/themes/twentytwentyfive/"
+msgstr "https://wordpress.org/themes/twentytwentyfive/"
+
+#: patterns/grid-with-categories.php:22
+msgid "Top Categories"
+msgstr "Kategori Teratas"
+
+#: patterns/grid-videos.php
+msgctxt "Pattern description"
+msgid "A grid with videos."
+msgstr "Kisi dengan video."
+
+#: patterns/grid-with-categories.php
+msgctxt "Pattern title"
+msgid "Grid with categories"
+msgstr "Kisi dengan kategori"
+
+#: patterns/grid-videos.php
+msgctxt "Pattern title"
+msgid "Grid with videos"
+msgstr "Kisi dengan video"
+
+#: patterns/format-audio.php:26
+msgid "Episode 1: Acoma Pueblo with Prof. Fiona Presley"
+msgstr "Episode 1: Acoma Pueblo dengan Prof. Fiona Presley"
+
+#: patterns/footer-columns.php:39 patterns/footer.php:51
+msgid "Authors"
+msgstr "Penulis"
+
+#: patterns/testimonials-2-col.php:36 patterns/testimonials-large.php:32
+msgctxt "Sample testimonial."
+msgid "“Superb product and customer service!”"
+msgstr "\"Produk dan layanan pelanggan yang luar biasa!\""
+
+#: patterns/footer-columns.php
+msgctxt "Pattern title"
+msgid "Footer with columns"
+msgstr "Footer dengan kolom"
+
+#: patterns/footer-columns.php
+msgctxt "Pattern description"
+msgid "Footer columns with title, tagline and links."
+msgstr "Kolom footer dengan judul, tagline, dan tautan."
+
+#: patterns/media-instagram-grid.php:28
+msgctxt "Example username for social media account."
+msgid "@example"
+msgstr "@contoh"
+
+#: patterns/event-schedule.php:163
+msgid "Black and white photo of an african woman."
+msgstr "Foto hitam putih seorang wanita afrika."
+
+#: patterns/event-schedule.php:142
+msgid "Ancient buildings and symbols"
+msgstr "Bangunan dan simbol kuno"
+
+#: patterns/event-schedule.php:132 patterns/media-instagram-grid.php:52
+msgid "The acropolis in Athens."
+msgstr "Akropolis di Athena."
+
+#: patterns/event-schedule.php:78 patterns/media-instagram-grid.php:44
+msgid "View of the deep ocean."
+msgstr "Pemandangan laut dalam."
+
+#: patterns/event-schedule.php:46 patterns/media-instagram-grid.php:60
+msgid "Birds on a lake."
+msgstr "Burung di atas danau."
+
+#: patterns/event-schedule.php:20
+msgid "Agenda"
+msgstr "Agenda"
+
+#: patterns/event-schedule.php:60 patterns/event-schedule.php:92
+#: patterns/event-schedule.php:145 patterns/event-schedule.php:177
+msgctxt "Example event time in pattern."
+msgid "9 AM — 11 AM"
+msgstr "9 AM — 11 AM"
+
+#: patterns/event-schedule.php:65 patterns/event-schedule.php:97
+#: patterns/event-schedule.php:150 patterns/event-schedule.php:182
+msgctxt "Pattern placeholder text with link."
+msgid "Lecture by <a href=\"#\">Prof. Fiona Presley</a>"
+msgstr "Kuliah oleh <a href=\"#\">Prof. Fiona Presley</a>"
+
+#: patterns/event-schedule.php
+msgctxt "Pattern title"
+msgid "Event schedule"
+msgstr "Jadwal acara"
+
+#: patterns/hero-full-width-image.php:33
+msgctxt "Sample hero button"
+msgid "Learn More"
+msgstr "Pelajari Lebih Lanjut"
+
+#: patterns/event-rsvp.php:81
+msgctxt "Abbreviation for \"Please respond\"."
+msgid "RSVP"
+msgstr "RSVP"
+
+#: patterns/cta-events-list.php
+msgctxt "Pattern title"
+msgid "Events list"
+msgstr "Daftar kegiatan"
+
+#: patterns/cta-centered-heading.php:28
+msgid "Learn more"
+msgstr "Pelajari lebih lanjut"
+
+#: patterns/contact-info-locations.php:86
+msgid "Portland"
+msgstr "Portland"
+
+#: patterns/contact-info-locations.php:74
+msgid "Salt Lake City"
+msgstr "Salt Lake City"
+
+#: patterns/contact-info-locations.php:33 patterns/footer-social.php:22
+#: patterns/media-instagram-grid.php:24 patterns/page-cv-bio.php:47
+#: patterns/page-link-in-bio-heading-paragraph-links-image.php:36
+#: patterns/page-link-in-bio-with-tight-margins.php:48
+msgid "Instagram"
+msgstr "Instagram"
+
+#: patterns/comments.php:18
+msgid "Comments"
+msgstr "Komentar"
+
+#: patterns/page-cv-bio.php:47
+msgctxt "Link to a page with information about what the person is working on right now."
+msgid "Now"
+msgstr "Sekarang"
+
+#: patterns/footer-columns.php:50 patterns/footer.php:57
+msgid "Shop"
+msgstr "Toko"
+
+#: styles/02-noon.json styles/colors/02-noon.json
+msgctxt "Style variation name"
+msgid "Noon"
+msgstr "Siang"
+
+#: patterns/pricing-3-col.php:113
+msgctxt "Name of membership package."
+msgid "Expert"
+msgstr "Ahli"
+
+#: patterns/event-3-col.php:20 patterns/footer-columns.php:49
+#: patterns/footer.php:55
+msgid "Events"
+msgstr "Acara"
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Footer"
+msgstr "Footer"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Regular"
+msgstr "Reguler"
+
+#: functions.php:113
+msgid "Post format"
+msgstr "Format pos"
+
+#: patterns/hidden-sidebar.php:14
+msgid "Other Posts"
+msgstr "Pos Lainnya"
+
+#. Theme Name of the theme
+#: patterns/footer-columns.php:66 patterns/footer-newsletter.php:42
+#: patterns/footer.php:75 patterns/page-portfolio-home.php:226
+msgid "Twenty Twenty-Five"
+msgstr "Twenty Twenty-Five"
+
+#: patterns/banner-about-book.php
+msgctxt "Pattern title"
+msgid "Banner with book description"
+msgstr "Spanduk dengan deskripsi buku"
+
+#: patterns/banner-about-book.php
+msgctxt "Pattern description"
+msgid "Banner with book description and accompanying image for promotion."
+msgstr "Spanduk dengan deskripsi buku dan gambar pendamping untuk promosi."
+
+#: patterns/banner-intro.php:22
+#: patterns/banner-with-description-and-images-grid.php:32
+#: patterns/footer-columns.php:46 patterns/overlapped-images.php:48
+msgctxt "Example brand name."
+msgid "Fleurs"
+msgstr "Fleurs"
+
+#: patterns/banner-about-book.php:34
+msgid "Image of a book"
+msgstr "Gambar buku"
+
+#: patterns/banner-about-book.php:22
+msgid "About the book"
+msgstr "Tentang buku"
+
+#: patterns/banner-cover-big-heading.php
+msgctxt "Pattern title"
+msgid "Cover with big heading"
+msgstr "Sampul dengan judul besar"
+
+#: patterns/hidden-written-by.php:16
+msgid "Written by "
+msgstr "Ditulis oleh "
+
+#: patterns/hero-full-width-image.php:23
+msgctxt "Sample hero heading"
+msgid "Tell your story"
+msgstr "Bagikan kisah Anda"
+
+#: patterns/hero-full-width-image.php:18
+msgctxt "Alt text for cover image."
+msgid "Picture of a flower"
+msgstr "Gambar bunga"
+
+#: patterns/format-audio.php
+msgctxt "Pattern title"
+msgid "Audio format"
+msgstr "Format audio"
+
+#: patterns/footer.php
+msgctxt "Pattern description"
+msgid "Footer columns with logo, title, tagline and links."
+msgstr "Kolom footer dengan logo, judul, tagline, dan tautan."
+
+#: patterns/cta-heading-search.php:18
+msgid "What are you looking for?"
+msgstr "Apa yang Anda cari?"
+
+#: patterns/cta-heading-search.php
+msgctxt "Pattern description"
+msgid "Large heading with a search form for quick navigation."
+msgstr "Judul besar dengan formulir pencarian untuk navigasi cepat."
+
+#: patterns/cta-heading-search.php
+msgctxt "Pattern title"
+msgid "Heading and search form"
+msgstr "Judul dan formulir pencarian"
+
+#: patterns/cta-grid-products-link.php:32
+msgid "Delivered every week"
+msgstr "Dikirim tiap minggu"
+
+#: patterns/cta-grid-products-link.php:26
+#: patterns/cta-grid-products-link.php:126
+msgid "Black and white flower"
+msgstr "Bunga hitam putih"
+
+#: patterns/cta-centered-heading.php:19 patterns/cta-events-list.php:33
+#: patterns/cta-events-list.php:102 patterns/event-3-col.php:40
+#: patterns/event-3-col.php:64 patterns/event-3-col.php:88
+#: patterns/template-home-photo-blog.php:27
+msgid "Tell your story"
+msgstr "Ceritakan kisah Anda"
+
+#: patterns/cta-centered-heading.php:22
+msgid "Like flowers that bloom in unexpected places, every story unfolds with beauty and resilience, revealing hidden wonders."
+msgstr "Bagaikan bunga yang mekar di tempat tak terduga, tiap kisah terungkap dengan keindahan dan ketangguhannya, menyingkap keajaiban tersembunyi."
+
+#: patterns/cta-book-links.php:57
+#: patterns/hero-overlapped-book-cover-with-links.php:100
+msgctxt "Pattern placeholder text with link."
+msgid "Outside Europe? View <a href=\"#\" rel=\"nofollow\">international editions</a>."
+msgstr "Di luar Eropa? Lihat <a href=\"#\" rel=\"nofollow\">edisi internasional</a>."
+
+#: patterns/contact-info-locations.php:21
+msgid "How to get in touch with us"
+msgstr "Cara menghubungi kami"
+
+#: patterns/banner-with-description-and-images-grid.php:48
+#: patterns/overlapped-images.php:26
+msgid "Black and white photography close up of a flower."
+msgstr "Fotografi close-up bunga hitam-putih."
+
+#: patterns/banner-with-description-and-images-grid.php:42
+#: patterns/overlapped-images.php:21
+msgid "Photography close up of a red flower."
+msgstr "Fotografi close-up bunga merah."
+
+#: patterns/banner-poster.php:51
+msgid "Let’s hear them."
+msgstr "Mari dengarkan mereka."
+
+#: patterns/banner-poster.php:15
+msgid "Picture of a historical building in ruins."
+msgstr "Gambar bangunan bersejarah yang sudah runtuh."
+
+#: patterns/banner-cover-big-heading.php:27 patterns/footer-columns.php:33
+#: patterns/footer-columns.php:35 patterns/footer-newsletter.php:20
+#: patterns/template-home-photo-blog.php:22
+msgid "Stories"
+msgstr "Cerita"
+
+#: functions.php:114
+msgid "A collection of post format patterns."
+msgstr "Koleksi pola format artikel."
+
+#: functions.php:134
+msgctxt "Label for the block binding placeholder in the editor"
+msgid "Post format name"
+msgstr "Nama format artikel"
+
+#: patterns/banner-intro-image.php:35
+msgctxt "Sample description for banner with flower."
+msgid "Like flowers that bloom in unexpected places, every story unfolds with beauty and resilience, revealing hidden wonders."
+msgstr "Bagaikan bunga yang mekar di tempat tak terduga, setiap kisah terungkap dengan keindahan dan ketangguhannya, mengungkap keajaiban tersembunyi."
+
+#. Description of the theme
+msgid "Twenty Twenty-Five emphasizes simplicity and adaptability. It offers flexible design options, supported by a variety of patterns for different page types, such as services and landing pages, making it ideal for building personal blogs, professional portfolios, online magazines, or business websites. Its templates cater to various blog styles, from text-focused to image-heavy layouts. Additionally, it supports international typography and diverse color palettes, ensuring accessibility and customization for users worldwide."
+msgstr "Twenty Twenty-Five menekankan kesederhanaan dan kemampuan beradaptasi. Tema ini menawarkan pilihan desain yang fleksibel, dilengkapi dengan berbagai pola untuk tipe laman yang beragam, seperti layanan dan halaman arahan, menjadikannya ideal untuk membangun blog pribadi, portofolio profesional, majalah online, atau situs web bisnis. Templatenya mendukung berbagai gaya blog, mulai dari yang berfokus pada teks hingga tata letak yang banyak gambar. Selain itu, tema ini mendukung tipografi internasional dan palet warna yang beragam, memastikan aksesibilitas dan kustomisasi bagi pengguna di seluruh dunia."
+
+#: patterns/banner-intro-image.php:22
+msgctxt "Alt text for intro picture."
+msgid "Picture of a flower"
+msgstr "Gambar bunga"
+
+#: patterns/banner-intro-image.php
+msgctxt "Pattern description"
+msgid "A Intro pattern with Short heading, paragraph and image on the left."
+msgstr "Pola pengantar dengan judul pendek, paragraf dan gambar di sebelah kiri."
+
+#: patterns/banner-intro-image.php
+msgctxt "Pattern title"
+msgid "Short heading and paragraph and image on the left"
+msgstr "Judul pendek, dan paragraf serta gambar di sebelah kiri"
+
+#: patterns/banner-cover-big-heading.php:20
+#: patterns/media-instagram-grid.php:36 patterns/page-coming-soon.php:19
+msgid "Photo of a field full of flowers, a blue sky and a tree."
+msgstr "Foto ladang yang penuh dengan bunga, langit biru dan pohon."
+
+#: patterns/banner-cover-big-heading.php
+msgctxt "Pattern description"
+msgid "A full-width cover section with a large background image and an oversized heading."
+msgstr "Bagian sampul lebar penuh dengan gambar latar belakang besar dan judul berukuran besar."
+
+#: patterns/comments.php
+msgctxt "Pattern description"
+msgid "Comments area with comments list, pagination, and comment form."
+msgstr "Area komentar dengan daftar komentar, paginasi, dan formulir komentar."
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Large"
+msgstr "Besar"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Small"
+msgstr "Kecil"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "X-Small"
+msgstr "Ekstra Kecil"
+
+#: styles/08-midnight.json
+msgctxt "Duotone name"
+msgid "Midnight filter"
+msgstr "Filter Midnight"
+
+#: styles/08-midnight.json styles/colors/08-midnight.json
+msgctxt "Style variation name"
+msgid "Midnight"
+msgstr "Midnight"
+
+#: styles/07-sunrise.json styles/colors/07-sunrise.json
+msgctxt "Style variation name"
+msgid "Sunrise"
+msgstr "Sunrise"
+
+#: styles/06-morning.json styles/colors/06-morning.json
+msgctxt "Style variation name"
+msgid "Morning"
+msgstr "Morning"
+
+#: styles/05-twilight.json styles/colors/05-twilight.json
+msgctxt "Style variation name"
+msgid "Twilight"
+msgstr "Twilight"
+
+#: styles/04-afternoon.json styles/colors/04-afternoon.json
+msgctxt "Style variation name"
+msgid "Afternoon"
+msgstr "Afternoon"
+
+#: styles/03-dusk.json styles/colors/03-dusk.json
+msgctxt "Style variation name"
+msgid "Dusk"
+msgstr "Dusk"
+
+#: patterns/template-page-vertical-header-blog.php
+msgctxt "Pattern title"
+msgid "Page template for the right-aligned blog"
+msgstr "Template laman untuk blog rata kanan."
+
+#: patterns/services-team-photos.php:38
+msgid "Portrait of a nurse"
+msgstr "Potret seorang perawat"
+
+#: patterns/services-team-photos.php:21
+msgid "Our small team is a group of driven, detail-oriented people who are passionate about their customers."
+msgstr "Tim kecil kami adalah sekelompok orang yang bersemangat, teliti, dan peduli pada konsumen."
+
+#: patterns/services-team-photos.php:50
+msgid "Man in hat, standing in front of a building."
+msgstr "Pria bertopi, berdiri di depan sebuah gedung."
+
+#: patterns/services-team-photos.php:44
+msgid "Picture of a person typing on a typewriter."
+msgstr "Gambar seseorang sedang mengetik di mesin tik."
+
+#: patterns/services-subscriber-only-section.php
+msgctxt "Pattern description"
+msgid "A subscriber-only section highlighting exclusive services and offerings."
+msgstr "Bagian khusus pelanggan yang menyoroti layanan dan penawaran eksklusif."
+
+#: patterns/services-subscriber-only-section.php
+msgctxt "Pattern title"
+msgid "Services, subscriber only section"
+msgstr "Layanan, bagian khusus pelanggan"
+
+#: patterns/banner-poster.php:39
+msgid "Fuego Bar, Mexico City"
+msgstr "Bar Fuego, Kota Meksiko"
+
+#: patterns/cta-events-list.php:75
+msgid "Mexico City, Mexico"
+msgstr "Kota Meksiko, Meksiko"
+
+#: patterns/services-subscriber-only-section.php:21
+msgid "Subscribe to get unlimited access"
+msgstr "Berlangganan untuk mendapatkan akses tanpa batas"
+
+#: patterns/page-shop-home.php
+msgctxt "Pattern title"
+msgid "Shop homepage"
+msgstr "Halaman beranda toko"
+
+#: patterns/contact-location-and-link.php
+msgctxt "Pattern title"
+msgid "Contact location and link"
+msgstr "Lokasi dan tautan kontak"
+
+#: patterns/cta-book-locations.php:131
+msgid "United Kingdom"
+msgstr "Inggris Raya"
+
+#: patterns/cta-book-locations.php:23
+msgid "International editions"
+msgstr "Edisi internasional"
+
+#: patterns/format-link.php
+msgctxt "Pattern title"
+msgid "Link format"
+msgstr "Format tautan"
+
+#: patterns/hero-overlapped-book-cover-with-links.php:113
+msgid "Book Image"
+msgstr "Gambar Buku"
+
+#: patterns/hidden-written-by.php:20
+msgid "in"
+msgstr "di"
+
+#: patterns/page-cv-bio.php
+msgctxt "Pattern title"
+msgid "CV/bio"
+msgstr "Curriculum vitae"
+
+#: patterns/page-portfolio-home.php
+msgctxt "Pattern title"
+msgid "Portfolio homepage"
+msgstr "Beranda portofolio"
+
+#: patterns/page-landing-event.php
+msgctxt "Pattern title"
+msgid "Landing page for event"
+msgstr "Halaman arahan untuk kegiatan"
+
+#: patterns/services-3-col.php:50
+msgid "Assemble"
+msgstr "Pasang"
+
+#: patterns/page-business-home.php
+msgctxt "Pattern title"
+msgid "Business homepage"
+msgstr "Beranda bisnis"
+
+#: patterns/heading-and-paragraph-with-image.php:23
+msgid "About the event"
+msgstr "Tentang kegiatan ini"
+
+#: patterns/contact-info-locations.php
+msgctxt "Pattern title"
+msgid "Contact, info and locations"
+msgstr "Kontak, info dan lokasi"
+
+#: patterns/testimonials-large.php
+msgctxt "Pattern title"
+msgid "Review with large image on right"
+msgstr "Tinjauan dengan gambar besar di sisi kanan"
+
+#: patterns/testimonials-6-col.php
+msgctxt "Pattern description"
+msgid "A section with three columns and two rows, each containing a testimonial and citation."
+msgstr "Bagian dengan tiga kolom dan dua baris, masing-masing berisi testimoni dan sumber kutipan."
+
+#: patterns/testimonials-6-col.php
+msgctxt "Pattern title"
+msgid "3 column layout with 6 testimonials"
+msgstr "Tata letak 3 kolom dengan 6 testimoni"
+
+#: patterns/testimonials-large.php
+msgctxt "Pattern description"
+msgid "A testimonial with a large image on the right."
+msgstr "Testimoni dengan gambar besar di sisi kanan."
+
+#: patterns/testimonials-large.php:47
+msgctxt "Alt text for testimonial image."
+msgid "Picture of a person typing on a typewriter."
+msgstr "Gambar seseorang sedang mengetik pada mesin ketik."
+
+#: patterns/text-faqs.php:30 patterns/text-faqs.php:39
+#: patterns/text-faqs.php:48 patterns/text-faqs.php:57
+#: patterns/text-faqs.php:66
+msgctxt "Answer in the FAQs pattern."
+msgid "This exquisite compilation showcases a diverse array of photographs that capture the essence of different eras and cultures, reflecting the unique styles and perspectives of each artist. Fleckenstein's evocative imagery, Strand's groundbreaking modernist approach, and Kōno's meticulous documentation of Japanese life come together in a harmonious blend that celebrates the art of photography."
+msgstr "Kompilasi yang indah ini menampilkan beragam foto yang menangkap esensi dari berbagai era dan budaya, mencerminkan gaya dan perspektif unik dari setiap senimannya. Imaji Fleckenstein yang penuh emosi, pendekatan modernis inovatif dari Strand, dan dokumentasi teliti Kōno tentang kehidupan Jepang berpadu dalam harmoni yang merayakan seni fotografi."
+
+#: patterns/text-faqs.php:55
+msgctxt "Question in the FAQs pattern."
+msgid "Are signed copies available?"
+msgstr "Apakah tersedia salinan bertanda tangan?"
+
+#: patterns/template-single-vertical-header-blog.php
+msgctxt "Pattern title"
+msgid "Right-aligned single post"
+msgstr "Pos tunggal rata kanan"
+
+#: patterns/template-archive-vertical-header-blog.php
+msgctxt "Pattern title"
+msgid "Archive for the right-aligned blog"
+msgstr "Arsip untuk blog rata kanan"
+
+#: patterns/template-home-news-blog.php
+msgctxt "Pattern title"
+msgid "News blog home"
+msgstr "Beranda blog berita"
+
+#: patterns/template-home-photo-blog.php
+msgctxt "Pattern title"
+msgid "Photo blog home"
+msgstr "Beranda blog foto"
+
+#: patterns/template-archive-photo-blog.php
+msgctxt "Pattern title"
+msgid "Photo blog archive"
+msgstr "Arsip blog foto"
+
+#: patterns/template-archive-news-blog.php
+msgctxt "Pattern title"
+msgid "News blog archive"
+msgstr "Arsip blog berita"
+
+#: patterns/template-404-vertical-header-blog.php
+msgctxt "Pattern title"
+msgid "Right-aligned blog, 404"
+msgstr "Blog rata kanan, 404"
+
+#: patterns/template-home-posts-grid-news-blog.php
+msgctxt "Pattern title"
+msgid "News blog with featured posts grid"
+msgstr "Blog berita dengan kisi pos andalan"
+
+#: patterns/template-page-photo-blog.php
+msgctxt "Pattern title"
+msgid "Photo blog page"
+msgstr "Halaman blog foto"
+
+#: patterns/pricing-3-col.php:125
+msgid "40€"
+msgstr "€40"
+
+#: patterns/pricing-3-col.php:117
+msgid "Get access to our paid newsletter and an unlimited pass."
+msgstr "Dapatkan akses ke buletin berbayar kami dan tiket tak terbatas."
+
+#: patterns/pricing-3-col.php:77
+msgid "Get access to our paid newsletter and a limited pass for one event."
+msgstr "Dapatkan akses ke buletin berbayar kami dan tiket terbatas untuk satu acara."
+
+#: patterns/pricing-3-col.php:19
+msgid "Choose your membership"
+msgstr "Pilih keanggotaan Anda"
+
+#: patterns/pricing-2-col.php:38 patterns/pricing-3-col.php:49
+msgid "0€"
+msgstr "€0"
+
+#: patterns/banner-about-book.php:26
+msgctxt "Pattern placeholder text."
+msgid "This exquisite compilation showcases a diverse array of photographs that capture the essence of different eras and cultures, reflecting the unique styles and perspectives of each artist. Fleckenstein’s evocative imagery, Strand’s groundbreaking modernist approach, and Kōno’s meticulous documentation of Japanese life come together in a harmonious blend that celebrates the art of photography. Each image in “The Stories Book” is accompanied by insightful commentary, providing historical context and revealing the stories behind the photographs. This collection is not only a visual feast but also a tribute to the power of photography to preserve and narrate the multifaceted experiences of humanity."
+msgstr "Kompilasi indah ini menampilkan beragam foto yang menangkap esensi era dan budaya berbeda, mencerminkan gaya dan perspektif unik setiap seniman. Citra Fleckenstein yang menggugah, pendekatan modernis inovatif Strand, dan dokumentasi cermat Kōno tentang kehidupan Jepang berpadu dalam perpaduan harmonis yang merayakan seni fotografi. Setiap gambar dalam “The Stories Book” dilengkapi dengan komentar mendalam, memberikan konteks sejarah dan mengungkap kisah di balik foto-foto tersebut. Koleksi ini bukan hanya sekedar pesta visual namun juga merupakan penghormatan terhadap kekuatan fotografi dalam melestarikan dan menceritakan pengalaman beragam umat manusia."
